@@ -2,11 +2,15 @@
 # Asma Hosni | Data Analyst
 
 Hello everyone!👋
+
 I'm Asma, a Data Analyst; I use the following softwares:
 
 PYTHON
+
 SQL
+
 MICROSOFT POWER BI
+
 TABLEAU
 
 I am highly organized, with great attention to detail, flexible, a fast learner, enthusiastic about learning new things.
