@@ -1,5 +1,5 @@
-![](https://github.com/Asmahosniiii/ِِAsmahosniiii/blob/main/header.png)
-# Asma Hosni|Data Analyst
+![](https://github.com/Asmahosniiii/Asmahosniiii/blob/main/header.png)
+# Asma Hosni | Data Analyst
 
 Hello everyone!👋
 I'm Asma, a Data Analyst I use the following soft wares:
