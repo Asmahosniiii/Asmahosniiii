@@ -2,25 +2,20 @@
 # Asma Hosni | Data Analyst
 
 Hello everyone!👋
-I'm Asma, a Data Analyst I use the following soft wares:
+I'm Asma, a Data Analyst; I use the following softwares:
 
 PYTHON
 SQL
 MICROSOFT POWER BI
 TABLEAU
-HTML
-CSS
-JAVASCRIPT
-WORDPRESS
-ADOBE PHOTOSHOP
-PDF conversion to WORD, EXCEL, or spreadsheet.
-DATA ENTRY
-WEB RESEARCH
-LINKED IN RESEARCH
 
 I am highly organized, with great attention to detail, flexible, a fast learner, enthusiastic about learning new things.
 
 Feel Free to contact me!
+
+## Skills
+[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![](	https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)](https://https://github.com/Asmahosniiii)) 
+
 
 
 <!--
