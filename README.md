@@ -1,19 +1,19 @@
 ![](https://github.com/Asmahosniiii/Asmahosniiii/blob/main/header.png)
-# Asma Hosni | Data Analyst
+# Asma Hosni | Data Analyst |  Turning complex data sets into valuable insights
 
 Hello everyone!👋
 
-I'm Asma, a Data Analyst; I use the following softwares:
+As a data analysis enthusiast, I’m always looking for opportunities to apply my skills to real-world problems.
 
-PYTHON
+ I am experienced in data visualization techniques and tools; 
+ 
+ I use data visualization to bring the numbers to life and share the insights with others, I create interactive dashboards and reports using tools like Tableau, Power BI, and Excel. histograms, Bar charts, line charts, scatter plots, and heat maps are some of the visualization types I have designed.
 
-SQL
+I rely on are regression analysis, hypothesis testing, and data mining. These techniques allow me to uncover insights and predict outcomes from data.
 
-MICROSOFT POWER BI
+I am highly organized, with great attention to detail, flexible, a fast learner and enthusiastic about learning new things.
 
-TABLEAU
-
-I am highly organized, with great attention to detail, flexible, a fast learner, enthusiastic about learning new things.
+I hope this glimpse into my world of data analysis has sparked your interest in the potential that data holds. The future is data-driven, and I'm ready to dive in!
 
 Feel Free to contact me!
 
