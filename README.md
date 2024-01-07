@@ -11,6 +11,8 @@ As a data analysis enthusiast, I’m always looking for opportunities to apply m
 
 I rely on are regression analysis, hypothesis testing, and data mining. These techniques allow me to uncover insights and predict outcomes from data.
 
+I can also provide services for Data Scraping, Web Automation, and various Python tasks.
+
 I am highly organized, with great attention to detail, flexible, a fast learner and enthusiastic about learning new things.
 
 I hope this glimpse into my world of data analysis has sparked your interest in the potential that data holds. The future is data-driven, and I'm ready to dive in!
