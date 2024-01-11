@@ -15,7 +15,9 @@ I can also provide services for Data Scraping, Web Automation, and various Pytho
 
 I am highly organized, with great attention to detail, flexible, a fast learner and enthusiastic about learning new things.
 
-I hope this glimpse into my world of data analysis has sparked your interest in the potential that data holds. The future is data-driven, and I'm ready to dive in!
+I hope this glimpse into my world of data analysis has sparked your interest in the potential that data holds. 
+
+The future is data-driven, and I'm ready to dive in!
 
 Feel Free to contact me!
 
